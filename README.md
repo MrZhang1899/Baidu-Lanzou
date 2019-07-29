@@ -29,9 +29,11 @@ url:蓝奏云分享链接
 
 pwd:外链密码
 
-无密码：http://coolgeeker.com/pan.php?url=https://www.lanzous.com/i1a18af
+无密码：http://coolgeeker.com/pan.php?url=https://lanzous.com/i1a18af
 
-有密码：http://coolgeeker.com/pan.php?url=https://www.lanzous.com/i2uxg7i&pwd=47g2
+有密码：http://coolgeeker.com/pan.php?url=https://lanzous.com/i2uxg7i&pwd=47g2
+
+直接下载：http://coolgeeker.com/pan.php?url=https://lanzous.com/i2uxg7i&pwd=47g2&type=down
 
 
 ## 转载或使用请保留版权！！
